@@ -1,0 +1,7 @@
+Not comepleted for the following questions -
+
+Merge k Sorted Lists   		- Hard
+Copy List with Random Pointer    - Medium
+Sort List    - Medium
+Intersection of Two Linked Lists    - Easy
+Odd Even Linked List 		- Medium
